@@ -13,13 +13,13 @@
 📫 &nbsp; How to reach me: [LinkedIn][linkedin] 
  <br />
 
-## 🏆 Achievements
+##  Achievements
 
  🎖 &nbsp;[MTA: Introduction to Programming Using HTML and CSS - Certified 2021](https://www.credly.com/badges/aca3416b-accf-4027-b79c-c63214241744/)
 
 
 
- ## 🔧 Tecnologies & Tools:
+ ##  Tecnologies & Tools:
 
  <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
  <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
