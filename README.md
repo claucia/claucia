@@ -6,9 +6,8 @@
 ## Here's a little bit about me
 
 🗣 &nbsp; How to pronouce my name: /ˈklaʊsɪə/.  
-🔭 &nbsp; I’m currently working on acquire tech skills with the aim of a career change.   
-🌱 &nbsp; I’m currently learning JavaScript, looking forward to work as a `Frontend Web Developer`.   
-🌱 &nbsp; I’m also learning `Digital Marketing`.  
+🔭 &nbsp; I’m currently working on the pathway to become a `Frontend Web Developer`.  
+🌱 &nbsp; I’m currently learning `JavaScript`, and `Digital Marketing`.     
 👩🏼‍🎨 &nbsp; I also have great interest in `Photography` and `Graphic Design`.  
 🎯 &nbsp; In the near future, I plan to learn React.  
 📫 &nbsp; How to reach me: [LinkedIn][linkedin] 
