@@ -8,7 +8,8 @@
 🗣 &nbsp; How to pronouce my name: /ˈklaʊsɪə/.  
 🔭 &nbsp; I’m currently working on the pathway to become a `Frontend Web Developer`.  
 🌱 &nbsp; I’m currently learning `JavaScript`, and `Digital Marketing`.     
-👩🏼‍🎨 &nbsp; I also have great interest in `Photography` and `Graphic Design`.  
+👩🏼‍🎨 &nbsp; I also have great interest in `Web Animation`,`Graphic Design`.  
+⛱ &nbsp; My hobbies are: `Photography`, `Board Games`.  
 🎯 &nbsp; In the near future, I plan to learn React.  
 📫 &nbsp; How to reach me: [LinkedIn][linkedin] 
  <br />
