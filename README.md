@@ -7,16 +7,17 @@
 
 🗣 &nbsp; How to pronouce my name: /ˈklaʊsɪə/.  
 🔭 &nbsp; I’m currently working on the pathway to become a `Frontend Web Developer`.  
-🌱 &nbsp; I’m currently learning `JavaScript`, and `Digital Marketing`.     
-👩🏼‍🎨 &nbsp; I also have great interest in `Web Animation`,`Graphic Design`.  
+🌱 &nbsp; I’m currently learning `JavaScript` and `Digital Marketing`.     
+👩🏼‍🎨 &nbsp; I also have great interest in `Web Animation` and `Graphic Design`.  
 🎯 &nbsp; In the near future, I plan to learn React.  
 📫 &nbsp; How to reach me: [LinkedIn][linkedin] 
  <br />
 
+
 ##  Achievements
 
  🎖 &nbsp;[MTA: Introduction to Programming Using HTML and CSS - Certified 2021](https://www.credly.com/badges/aca3416b-accf-4027-b79c-c63214241744/)    
- 🎖 &nbsp;[MTA: Introduction to Programming Using JavaScript - Certified 2022](https://www.credly.com/badges/10fb920f-be8a-4472-ab50-60ec75d413ef/public_url)
+ 🎖 &nbsp;[MTA: Introduction to Programming Using JavaScript - Certified 2022](https://www.credly.com/badges/10fb920f-be8a-4472-ab50-60ec75d413ef)
 
 
  ##  Tecnologies & Tools:
