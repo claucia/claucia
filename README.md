@@ -16,8 +16,8 @@
 
 ##  Achievements
 
- 🎖 &nbsp;[MTA: Introduction to Programming Using HTML and CSS - Certified 2021](https://www.credly.com/badges/aca3416b-accf-4027-b79c-c63214241744/)    
- 🎖 &nbsp;[MTA: Introduction to Programming Using JavaScript - Certified 2022](https://www.credly.com/badges/10fb920f-be8a-4472-ab50-60ec75d413ef)
+ 🎖 &nbsp;[MTA: Introduction to Programming Using HTML and CSS - Certified 2021]  [MTA]  
+ 🎖 &nbsp;[MTA: Introduction to Programming Using JavaScript - Certified 2022]  [MTA 98-382]
 
 
  ##  Tecnologies & Tools:
@@ -33,6 +33,9 @@
 
 <!-- links -->
  [linkedin]: https://www.linkedin.com/in/clauciacambruzzi/
+ [MTA]:(https://www.credly.com/badges/aca3416b-accf-4027-b79c-c63214241744/)  
+ [MTA 98-382]: (https://www.credly.com/badges/10fb920f-be8a-4472-ab50-60ec75d413ef)
+ 
 
 
 
