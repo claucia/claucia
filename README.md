@@ -5,9 +5,9 @@ I am originally from Brazil, and I descend from an Italian family. Well, I recko
 
 I moved to Ireland in mid-2018 and, since then I’ve been [working][cv] on hospitality, which was heavily affected by the COVID-19 restrictions. So, during a layoff from work, I started studying Web technologies such as HTML, CSS/SCSS, and JavaScript. I also obtained certifications from Microsoft to assert these skills. My next goal is to learn React.
 
-Currently, I am enrolled in an online course called [CS50x][cs50x] provided by HarvardX via edX. It's been a fantastic opportunity to learn the art of programming with the best teachers. 
+By the way, I am currently enrolled in an online course called [CS50x][cs50x] provided by HarvardX via edX. It's been a fantastic opportunity to learn the art of programming with the best teachers. 
 
-I strongly believe that learning by practicing is the best way to learn. With that in mind, I found an interesting way to get some hands-on experience: [Frontend Mentor challenges][frontend-mentor-challenges]. There’s a huge collection of challenges to choose from. It’s been a challenging and rewarding experience.
+I strongly believe that learning by practicing is the best way to learn. With that in mind, I found an interesting way to get some hands-on experience: [Frontend Mentor challenges][frontend-mentor-challenges]. There’s a huge collection of challenges to choose from. And I can say it’s been a challenging and rewarding experience.
 
 Finally, feel free to reach out if you feel like doing so:
 
