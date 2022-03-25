@@ -13,10 +13,10 @@ By the way, I strongly believe that learning by practicing is the best way to le
 
 Finally, feel free to reach out if you feel like doing so:
 
-📫 &nbsp; [LinkedIn][linkedin]  
-📫 &nbsp; [Website][website]  
-📫 &nbsp; [Portfolio][portfolio]  
-📫 &nbsp; [Contact me][contact-me]  
+✨ &nbsp; [LinkedIn][linkedin]  
+✨ &nbsp; [Website][website]  
+✨ &nbsp; [Portfolio][portfolio]  
+✨ &nbsp; [Contact me][contact-me]  
 
 
 ##  Achievements
